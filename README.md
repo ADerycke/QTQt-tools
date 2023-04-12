@@ -9,11 +9,12 @@ Usefull informations :
   
 ## Generate He file using Excel table :
 Find one excel file that produce helium data files (.txt) for QTQt from a basic table. Not that it allow to review existing data file and automatically add AFT data.
-(
+![image](https://user-images.githubusercontent.com/130437433/231545265-1091cc0f-4e49-4be5-9c16-937fb3ab0dd6.png)
 
 ## QTQt displayer :
 Find 2 python code available through Jupyter NoteBook and partially annoted with french and english comment...
 Both code done the same thinks : use the "Summary.txt" generate by QTQt after a run to generate a simple and intergrative figure that summarize the data inverions result.
+![image](https://user-images.githubusercontent.com/130437433/231545454-4279488d-e586-4757-bc7d-a8a66bb8c99f.png)
 
 *how it work ?*
 
