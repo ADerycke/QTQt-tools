@@ -4,11 +4,12 @@ This GitHub regroupe several utilities that i developed to improve my personnal 
 If you are interested into use it, feel free to try and improve it !
 
 Usefull informations :
-  - i work on windows 10 OS
+  - i work on Windows 10 OS
   - i work mainly on VBA and python
   
 ## Generate He file using Excel table :
 Find one excel file that produce helium data files (.txt) for QTQt from a basic table. Not that it allow to review existing data file and automatically add AFT data.
+(
 
 ## QTQt displayer :
 Find 2 python code available through Jupyter NoteBook and partially annoted with french and english comment...
