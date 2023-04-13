@@ -5,7 +5,7 @@ If you are interested into use it, feel free to try and improve it !
 
 Usefull informations :
   - i work on Windows 10 OS
-  - i work mainly on VBA and python
+  - i use VBA and python
   
 ## Generate He file using Excel table :
 Find one excel file that produce helium data files (.txt) for QTQt from a basic table. Note that it allow to review existing data files and add AFT data (already prepare).
