@@ -8,7 +8,7 @@ Usefull informations :
   - i work mainly on VBA and python
   
 ## Generate He file using Excel table :
-Find one excel file that produce helium data files (.txt) for QTQt from a basic table. Not that it allow to review existing data file and automatically add AFT data.
+Find one excel file that produce helium data files (.txt) for QTQt from a basic table. Note that it allow to review existing data files and add AFT data (already prepare).
 ![image](https://user-images.githubusercontent.com/130437433/231545265-1091cc0f-4e49-4be5-9c16-937fb3ab0dd6.png)
 
 ## QTQt displayer :
