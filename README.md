@@ -1,4 +1,4 @@
-# QTQt utility
+# QTQt utilities
 
 This GitHub regroupe several utilities that i developed to improve my personnal day-by-day use of QTQt sofware (Gallagher et al. 2007).
 If you are interested into use it, feel free to try and improve it !
@@ -13,7 +13,7 @@ Find one excel file that produce helium data files (.txt) for QTQt from a basic 
 
 ## QTQt displayer :
 Find 2 python code available through Jupyter NoteBook and partially annoted with french and english comment...
-Both code done the same thinks : use the "Summary.txt" generate by QTQt after a run to generate a simple and intergrative figure that summarize the data inverions result.
+Both code done the same thinks : use the "Summary.txt" generate by QTQt after a run to generate a simple and intergrative figure that summarize the data inverions result (see the image below).
 ![image](https://user-images.githubusercontent.com/130437433/231545454-4279488d-e586-4757-bc7d-a8a66bb8c99f.png)
 
 *how it work ?*
