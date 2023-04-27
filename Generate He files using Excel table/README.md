@@ -16,6 +16,9 @@ Click on the "Review Data files" button to input data from QTQt files to the exc
   - one line = one crystal
   - same crystal name = same sample
   
+ ![image](https://user-images.githubusercontent.com/130437433/234904993-e23cb1d4-b7bf-4ca8-8941-881c03d7f867.png)
+
+ 
 *direct option :*
   - you can input U, Th and Sm or only eU
   - you can add a Rs resample by adding the wanted range in dark-green column
