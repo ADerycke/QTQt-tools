@@ -3,6 +3,8 @@ The "software" is avaible as an .exe files that you can just start on your compu
 
 Note : for a god know reason i'm not able to compile it on MacOS, so it's only available on windows by now... 
 
+![image](https://github.com/ADerycke/QTQt-utility/assets/130437433/515af761-44b9-47eb-872c-d141ae0ca30d)
+
 ## QTQt displayer (PyQt) : (for beginner in code or people that want an interface)
 It's a python code that use a graphical interface (base on Qt) to help users to produce the wanted plot.
 
