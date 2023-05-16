@@ -25,5 +25,5 @@ Both code done the same thinks : use the "Summary.txt" generate by QTQt after a 
 *how can you help ?*
 
   - if you are a pro coder, don't hesitate to correct/improve those code
-  - if you are a pro Qt, please don't juge me and help me to properly do a interface
-  - if you are working on MacOS, don't hesitate to correct the bug
+  - if you are a pro Qt, please don't juge me and help me to properly do an interface
+  - if you are working on MacOS, the code properly work on it but i'm not able to generate a bundle/application that work. So if you can do it don't hesitate to contact me ! 
