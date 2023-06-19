@@ -11,6 +11,10 @@ Usefull informations :
 Find one excel file that produce helium data files (.txt) for QTQt from a basic table. Note that it allow to review existing data files and add AFT data (already prepare).
 ![image](https://user-images.githubusercontent.com/130437433/231545265-1091cc0f-4e49-4be5-9c16-937fb3ab0dd6.png)
 
+## Generate He file using Excel table :
+Find one excel file that automatically retrieve modelling results (pred. ages, pred LFT...) from the "Summary.txt" generate by QTQt.
+![image](https://github.com/ADerycke/QTQt-utility/assets/130437433/25b21fb8-06a4-47f8-b4e8-3e4b0a4d1d4e)
+
 ## QTQt displayer :
 Find 2 python code available through Jupyter NoteBook and partially annoted with french and english comment...
 Both code done the same thinks : use the "Summary.txt" generate by QTQt after a run to generate a simple and intergrative figure that summarize the data inverions result (see the image below).
