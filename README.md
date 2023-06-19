@@ -13,7 +13,7 @@ Find one excel file that produce helium data files (.txt) for QTQt from a basic 
 
 ## Get the modelling "resutls" using Excel :
 Find one excel file that automatically retrieve modelling results (pred. ages, pred LFT...) from the "Summary.txt" generate by QTQt.
-![image](https://github.com/ADerycke/QTQt-utility/assets/130437433/d9b04fdf-b5b9-439e-bfc1-9dcdb9f3f36b)
+ ![image](https://github.com/ADerycke/QTQt-utility/assets/130437433/d9b04fdf-b5b9-439e-bfc1-9dcdb9f3f36b)
 
 ## QTQt displayer :
 Find 2 python code available through Jupyter NoteBook and partially annoted with french and english comment...
