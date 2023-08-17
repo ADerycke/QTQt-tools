@@ -6,7 +6,7 @@ Note : for a god know reason i'm not able to compile it on MacOS, so it's only a
 ![image](https://github.com/ADerycke/QTQt-utility/assets/130437433/515af761-44b9-47eb-872c-d141ae0ca30d)
 
 ## QTQt displayer (PyQt) : (for beginner in code or people that want an interface)
-It's a python code that use a graphical interface (base on Qt) to help users to produce the wanted plot.
+It's a python code that use a graphical interface (base on Qt) to help users to produce the wanted plot. Personnaly, it's this one that i use.
 
 *list of librairy (same as the other, plus) :* 
   - Pyside6 for Qt (handle all the user interface)
