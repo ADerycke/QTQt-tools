@@ -25,9 +25,10 @@ Both code done the same thinks : use the "Summary.txt" generate by QTQt after a 
 
 *how it work ?*
 
-  - advanced code user : use the first code (named "multi file") that is a full python and completely cutomisable 
-  - intermediate code user : use the second code (named "PyQt) is based on a graphical interface (Qt) so you don't need any specific knowledge to run it, except installing the needed library
-  - what is a code ??? : i can provide an .exe file that you can use just by cliking on it (windows user)
+  - what is a code ??? : i can provide an .exe file that you can use just by cliking on it (windows user only by now)
+  - intermediate code user : use the code named "PyQt", is based on a graphical interface (Qt) so you don't need any specific knowledge to run it, except installing the needed library
+  - advanced code user : use the code named "multi file" that is a full python and completely cutomisable code
+  
 
 *how can you help ?*
 
