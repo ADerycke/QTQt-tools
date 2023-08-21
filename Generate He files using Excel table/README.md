@@ -1,7 +1,5 @@
 ##  How to use this files :
-You simply have to download the file, allow the execution of macro and it's ready !
-
-*Warning* : this files will not work on MacOS
+You simply have to download the file, allow the execution of macro and it's ready ! Normally files should work on both windows and mac os.
 
 ## basic use :
 Click on the "Create Data files" button to generate the QTQt files, a window gonna open to select the destination and files will be name after samples name.
