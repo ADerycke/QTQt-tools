@@ -4,7 +4,7 @@ You simply have to download the file, allow the execution of macro and it's read
 ## basic use :
 Click on the "Create Data files" button to generate the QTQt files, a window gonna open to select the destination and files will be name after samples name.
 
-Click on the "Review Data files" button to input data from QTQt files to the excel table.
+Click on the "Review Data files" button to input data from previous QTQt files to the excel table.
 
 ![image](https://user-images.githubusercontent.com/130437433/234915678-d476d33b-8be8-41be-8122-23c8d0a68e96.png)
 
