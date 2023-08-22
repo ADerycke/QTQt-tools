@@ -20,18 +20,21 @@ Find one excel file that automatically retrieve modelling results (pred. ages, p
 
 ## QTQt displayer :
 Find 2 python code available through Jupyter NoteBook and partially annoted with french and english comment...
-Both code done the same thinks : use the "Summary.txt" generate by QTQt after a run to generate a simple and intergrative figure that summarize the data inverions result (see the image below).
-![image](https://user-images.githubusercontent.com/130437433/231545454-4279488d-e586-4757-bc7d-a8a66bb8c99f.png)
+Both code done the same thinks : use the "Summary.txt" generate by QTQt after a run to generate a simple and intergrative figure that summarize the data inverions result :
+
+![McCLure (Gerin-Guent) - Simple_2](https://github.com/ADerycke/QTQt-tools/assets/130437433/c97758e6-23f7-47f2-b258-bc6c5d836475)
 
 *how it work ?*
 
   - what is a code ??? : i can provide an .exe file that you can use just by cliking on it (windows user only by now)
   - intermediate code user : use the code named "PyQt", is based on a graphical interface (Qt) so you don't need any specific knowledge to run it, except installing the needed library
   - advanced code user : use the code named "multi file" that is a full python and completely cutomisable code
-  
 
 *how can you help ?*
 
   - if you are a pro coder, don't hesitate to correct/improve those code
   - if you are a pro Qt, please don't juge me and help me to properly do an interface
-  - if you are working on MacOS, the code properly work on it but i'm not able to generate a bundle/application that work. So if you can do it don't hesitate to contact me ! 
+  - if you are working on MacOS, the code properly work on it but i'm not able to generate a bundle/application that work. So if you can do it don't hesitate to contact me !
+
+*limitation ?*
+By now i don't work with a vertical profile, so it's not gonna show properly results of a this kind of data. Same for Ar/Ar or 4/3He analyses.
