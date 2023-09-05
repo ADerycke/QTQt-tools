@@ -24,6 +24,10 @@ Both code done the same thinks : use the "Summary.txt" generate by QTQt after a 
 
 ![McCLure (Gerin-Guent) - Simple_2](https://github.com/ADerycke/QTQt-tools/assets/130437433/c97758e6-23f7-47f2-b258-bc6c5d836475)
 
+*using the GUI interface :*
+![image](https://github.com/ADerycke/QTQt-tools/assets/130437433/bcca83bc-b131-41f1-b4d2-989bb2cdb8a4)
+
+
 *how it work ?*
 
   - what is a code ??? : i can provide an .exe file that you can use just by cliking on it (windows user only by now)
