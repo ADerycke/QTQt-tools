@@ -19,7 +19,7 @@ Find one excel file that automatically retrieve modelling results (pred. ages, p
  ![image](https://github.com/ADerycke/QTQt-utility/assets/130437433/d9b04fdf-b5b9-439e-bfc1-9dcdb9f3f36b)
 
 ## QTQt displayer :
-Find 2 python code available through Jupyter NoteBook and partially annoted with french and english comment...
+Find 2 python code (available through Jupyter NoteBook and partially annoted with french and english comment...) or an .exe file (sorry for MacOs user :/)
 Both code done the same thinks : use the "Summary.txt" generate by QTQt after a run to generate a simple and intergrative figure that summarize the data inverions result :
 
 ![McCLure (Gerin-Guent) - Simple_2](https://github.com/ADerycke/QTQt-tools/assets/130437433/c97758e6-23f7-47f2-b258-bc6c5d836475)
@@ -30,7 +30,7 @@ Both code done the same thinks : use the "Summary.txt" generate by QTQt after a 
 
 *how it work ?*
 
-  - what is a code ??? : i can provide an .exe file that you can use just by cliking on it (windows user only by now)
+  - what is a code ??? : i provide an .exe file that you can use just by cliking on it (windows user only by now)
   - intermediate code user : use the code named "PyQt", is based on a graphical interface (Qt) so you don't need any specific knowledge to run it, except installing the needed library
   - advanced code user : use the code named "multi file" that is a full python and completely cutomisable code
 
