@@ -1,0 +1,13 @@
+===== Graph explanation =====
+
+This graph represents the ages actually observed (abscissa) vs. the ages predicted (ordinate)
+for a defined temperature time path. These paths can be maximum likelihood, maximum posterior
+and expected (see thermal history help).
+
+===== Help to understand ages =====
+
+To understand this graph: the closer the predicted ages are to the observed ages, the more 
+reliable the predicted thermal path will be. So, in a perfect (theoretical) case, all the 
+ages line up on the 1/1 line (dotted black line).
+
+===== Example =====

@@ -1,0 +1,44 @@
+===== How to read/understand inversion parameters =====
+
+This gray box contains all the exploration parameters used during data inversion:<br>
+
+** Keep complex histories (YES/NO) **
+-> YES: QTQt will keep all possible paths and therefore, in the case of an absence of information, present all possible paths. In this case, the
+ graph will be difficult to read (the entire graph being covered by paths) and/or the reconstructed thermal history will be very (too?) complex.
+! Remember to look at the max posterior in this case.
+-> NO: QTQt will keep only the simplest paths and therefore, in the absence of information, present a simple line.
+! Beware in this case, it may be misleading to assume that the time-temperature paths are well constrained, when in fact they are not.
+
+** Gaussian exploration (YES/NO) **
+?
+
+** t(T) path show (1/ X) **
+Manages time-temperature path display by keeping a path every X post-burn-in iterations.
+X can be set to >1 in the case of very constrained (i.e. small) exploration parameters or a large number of post-burn-in iteration (1 000 000)
+
+
+** Time / Temperature / Offset move **
+Should be scaled to your times-temperature exploration
+(ex: exploration between 0 and 10Ma, then Time = 1Ma, exploration between 0 and 100Ma, Time = 10Ma)
+
+-> first value: authorized movement of each point during exploration
+-> second value: percentage of movement acceptance
+-> no: no movement allowed
+
+** FT / He / VR resample **
+Set automatically at 100% to take account of errors in analyses/models, but could be reduce to 10, 1 or set at 0. 
+
+-> first value: authorized movement of each point during exploration as a percentage of its initial value.
+FT: annealing resample, He: eU or Rs or model resample, VR: ?
+-> second value: percentage of movement acceptance
+-> no: no movement allowed
+
+** Max rate **
+maximum cooling/heating rate allowed
+
+** Diff. / Ann. step **
+temperature interval for calculating diffusion / annealing (i.e. calculation of annealing values every X°C). The lower the value, the higher
+the resolution
+-> First value: case of apatites
+-> Second value: case of other crystals (zircon...)
+

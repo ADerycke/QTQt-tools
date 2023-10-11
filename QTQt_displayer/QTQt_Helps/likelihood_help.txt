@@ -1,0 +1,20 @@
+===== Help to understand the likelihood evolution  =====
+
+Likelihood is a value calculated as a function of predicted and observed data for
+a define time-temperature path. It is generally represented as a logarithm with values
+ranging from negative (poor data reproduction) to zero (theoretical values of perfect
+data reproduction).
+Tracking this value during a data inversion is therefore a good way of finding out
+whether a good time-temperature path is being approached (Likelihood converging to 0).
+
+===== Example =====
+
+First case: likelihood approaches 0, but has not yet reached a plateau value -> it is
+therefore necessary to run the model over more iterations, as it will converge towards
+a more accurate time-temperature path (BAD).
+
+Second case: likelihood decreases, which is not good and means that time-temperature
+path exploration parameters are poorly defined (probably too constrained). (BAD)
+
+Third case: likelihood has stabilized at a value close to 0, so the inversion has probably
+converged on the best time-temperature path. (GOOD)

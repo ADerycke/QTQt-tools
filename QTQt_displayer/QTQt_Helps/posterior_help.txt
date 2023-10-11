@@ -1,0 +1,13 @@
+===== Help to understand Posterior evolution =====
+
+The Posterior corresponds to a weighting of the Likelihood value by the complexity
+of the time-temperature path, and this path is estimated through its number of nodes
+(or points). The weighting acts as follows: the more complex a path, the lower its
+likelihood, and vice versa.
+
+The evolution of the posterior value shows the impact of time-temperature path
+complexity on data reproduction, and can be compared with the evolution of the
+likelihood value.
+
+
+===== Example =====
