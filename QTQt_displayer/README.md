@@ -13,7 +13,7 @@ You can have some tips to helps you to understand plots meaning, but only if you
 
 You can enter/change different parameters depending of what you want to display, or let them by default :
 
-![image](https://github.com/ADerycke/QTQt-tools/assets/130437433/4e1728ff-64be-4f97-9a89-a296802b8235)
+![image](https://github.com/ADerycke/QTQt-tools/assets/130437433/c7fba322-b333-4207-b99e-b6f6bc0a825a)
 
 You can use this tool bar to edite as you desire each plot of the figure :
 ![image](https://github.com/ADerycke/QTQt-tools/assets/130437433/26c1cf3a-fdd3-470c-8834-91fb528c0244)
