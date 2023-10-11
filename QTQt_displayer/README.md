@@ -24,7 +24,8 @@ It's a python code that use a graphical interface (base on Qt) to help users to 
 ![image](https://user-images.githubusercontent.com/130437433/232014922-cff7b4bd-494b-4a20-9ea2-1599ed84f15c.png)
 
 ## QTQt displayer (multi files) : (for coder)
-It's a python code where you can customise the plot looking at the function parameter in the code.
+It's the raw python code (withou the interface above) with the function to retriver the data and plot. if you are interested to do your own plots, it maybe can be usefull to you.
+(personnaly i use it as a develpemnt and debug)
 
 ## needed python librairy:
 
@@ -36,5 +37,5 @@ It's a python code where you can customise the plot looking at the function para
   - pyrolite (contain the geological time scale)
 
 *Needed for the GUI interface :* 
-  - Pyside6 and 5 for Qt (handle all the user interface)
+  - Pyside6 for Qt (handle all the user interface)
   - tqdm (usefull to follow things for progress bar)
