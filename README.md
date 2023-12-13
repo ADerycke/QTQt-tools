@@ -19,14 +19,22 @@ Find one excel file that automatically retrieve modelling results (pred. ages, p
  ![image](https://github.com/ADerycke/QTQt-utility/assets/130437433/d9b04fdf-b5b9-439e-bfc1-9dcdb9f3f36b)
 
 ## QTQt displayer :
-Find 2 python code (available through Jupyter NoteBook and partially annoted with french and english comment...) or an .exe file (sorry for MacOs user :/)
-Both code done the same thinks : use the "Summary.txt" generate by QTQt after a run to generate a simple and intergrative figure that summarize the data inverions result :
+Find a tool that produce simple and integrative figure using QTQt results.
 
 ![McCLure (Gerin-Guent) - Simple_2](https://github.com/ADerycke/QTQt-tools/assets/130437433/c97758e6-23f7-47f2-b258-bc6c5d836475)
-
-*using the GUI interface :*
+*GUI interface :*
 ![image](https://github.com/ADerycke/QTQt-tools/assets/130437433/bcca83bc-b131-41f1-b4d2-989bb2cdb8a4)
 
+This tools is avalaible as a an .exe file (only compile on Windows, sorry user) or 2 python code (available through Jupyter NoteBook and partially annoted with french and english comment...). 
+Both code done the same thinks : use the "Summary.txt" generate by QTQt after a run to generate a simple and intergrative figure that summarize the data inverions result :
+
+Link to the .exe file :
+[QTQt_displayer](https://drive.google.com/drive/folders/1_GGJ04T9lJ65IefS4SPoSup3R-byYIhL?usp=sharing)
+![image](https://github.com/ADerycke/QTQt-utility/assets/130437433/515af761-44b9-47eb-872c-d141ae0ca30d)
+
+No installation needed, but if you want to have the helps, don't forget to download the "QTQt_Helps" folder and put it in the same folder as the .exe
+
+Note : for a god know reason i'm not able to compile it on MacOS, so it's only available on windows by now... 
 
 *how it work ?*
 
@@ -41,4 +49,5 @@ Both code done the same thinks : use the "Summary.txt" generate by QTQt after a 
   - if you are working on MacOS, the code properly work on it but i'm not able to generate a bundle/application that work. So if you can do it don't hesitate to contact me !
 
 *limitation ?*
-By now i don't work with a vertical profile, so it's not gonna show properly results of a this kind of data. Same for Ar/Ar or 4/3He analyses.
+
+By now i don't work with Ar/Ar or 4/3He analyses, so it's not gonna show properly results of a this kind of data.
