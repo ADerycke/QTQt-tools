@@ -12,6 +12,8 @@ note : if the imported file is big, the importation could take time (1-2min)
 
 note 2 : it gonna work for both forward and inverted model
 
+https://github.com/ADerycke/QTQt-tools/assets/130437433/b7ca8b5c-effa-4d65-997d-1c70bbcdf44f
+
 ## *What you can do*
 
 You can use this file to retrieve different "basic" results :
