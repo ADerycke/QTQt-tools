@@ -1,6 +1,6 @@
 # QTQt utilities
 
-This GitHub regroupe several tools that i developed to improve my personnal day-by-day use of QTQt sofware (Gallagher, 2012).
+This GitHub regroupe several tools that i developed to improve my personnal day-by-day use of [QTQt sofware](https://www.thermonet.universite-paris-saclay.fr/?page_id=294&lang=en) made by [K. Gallagher](https://geosciences.univ-rennes.fr/en/interlocutors/kerry-gallagher) [(Gallagher, 2012)](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2011JB008825).
 If you are interested into use it, feel free to try and improve it !
 
 Usefull informations :
