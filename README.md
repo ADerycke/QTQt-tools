@@ -11,15 +11,17 @@ Usefull informations :
   - [Reseach Gate](https://www.researchgate.net/profile/Alexis-Derycke)
   
 ## Generate He file using Excel table :
-Find one excel file that produce helium data files (.txt) for QTQt from a basic table. Note that it allow to review existing data files and add AFT data (already prepare).
+Find [one excel file](https://github.com/ADerycke/QTQt-tools/tree/main/Generate%20He%20files%20using%20Excel%20table) that produce helium data files (.txt) for QTQt from a basic table. Note that it allow to review existing data files and add AFT data (already prepare).
+
 ![image](https://user-images.githubusercontent.com/130437433/231545265-1091cc0f-4e49-4be5-9c16-937fb3ab0dd6.png)
 
 ## Get the modelling "resutls" using Excel :
-Find one excel file that automatically retrieve modelling results (pred. ages, pred LFT...) in two clicks from the "Summary.txt" generate by QTQt.
+Find [another excel file](https://github.com/ADerycke/QTQt-tools/tree/main/Get%20the%20modelling%20%22resutls%22%20using%20Excel) that automatically retrieve modelling results (pred. ages, pred LFT...) in two clicks from the "Summary.txt" generate by QTQt.
+
  ![image](https://github.com/ADerycke/QTQt-utility/assets/130437433/d9b04fdf-b5b9-439e-bfc1-9dcdb9f3f36b)
 
 ## QTQt displayer :
-Find a tool that produce simple and integrative figure using QTQt results.
+Find [a tool](https://github.com/ADerycke/QTQt-tools/tree/main/QTQt_displayer) that produce simple and integrative figure using QTQt results.
 
 ![McCLure (Gerin-Guent) - Simple_2](https://github.com/ADerycke/QTQt-tools/assets/130437433/c97758e6-23f7-47f2-b258-bc6c5d836475)
 *GUI interface :*
