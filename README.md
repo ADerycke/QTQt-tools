@@ -1,4 +1,4 @@
-# ! WARNING I move the support of those tools to my website : [deryckehub](https://deryckehub.ovh/en/thermochronology)
+# ! WARNING : since september 2024, I move tools update and news to my website [deryckehub](https://deryckehub.ovh/en/thermochronology)
 
 # QTQt utilities
 
